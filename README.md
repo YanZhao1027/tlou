@@ -13,7 +13,11 @@
 | [经验检验协议](docs/Empirical_Protocol_zh.md) | H1–H3 与未来数据契约 | 拟登记；非已完成预注册 |
 | [Argon 第三轮审计及增补建议](docs/Argon_Third_Round_Audit_zh.md) | 第三轮审计主张、C001–C006、三项理论命题、3.6/H4/公式建议 | **报告与建议原意整理，未当作已实施修补** |
 | [第三轮审计追踪表](docs/Argon_Audit_Register_zh.md) | 逐项定位、优先级、建议处置和状态 | 追踪清单，非修复完成证明 |
-| [材料与版本说明](docs/Archive_Manifest_zh.md) | 输入文件、内容边界及 SHA-256 摘要 | 归档索引 |
+| [材料与版本说明](docs/Archive_Manifest_zh.md) | 输入文件、内容边界及 SHA-256 摘要 | 归档索引；两个 XLSX 文件尚未上传 |
+
+## 工作簿上传状态
+
+两份 XLSX 已在本轮供审阅并登记校验值，但受当前 GitHub 文本写入通道限制，**尚未将 Excel 二进制文件写入仓库**。因此本仓库目前是研究文档及第三轮审计归档，**不应标为含完整配套工作簿的复现包**。详见[材料清单](docs/Archive_Manifest_zh.md)。
 
 ## 版本与职责边界
 
